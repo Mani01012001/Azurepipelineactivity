@@ -6,3 +6,5 @@ thanks for pushing
 Dumy Check
 
 Feature 1
+
+Feature 2
